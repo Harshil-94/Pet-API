@@ -1,5 +1,4 @@
 # Pet-API
-read the read me file 
 Pet Store Api
 DSCSRM Recruitment Technical Task(pet store api)
 
