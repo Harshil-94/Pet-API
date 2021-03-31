@@ -1,8 +1,5 @@
 # Pet-API
 Pet Store Api
-DSCSRM Recruitment Technical Task(pet store api)
-
-Candidate ID:CAND9201
 
 Pre - Requirement
 typescript(nodejs)
